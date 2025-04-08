@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "extensive-go/mylib"
 
+func main() {
+	mylib.StructProcess()
 }
